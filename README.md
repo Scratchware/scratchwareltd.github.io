@@ -1,4 +1,4 @@
-## Hey, there! Welcome to Scratchware's GitHub site!
+## About Scratchware's GitHub Site
 
 This is where all of our web-oriented software and/or ports will be hosted, such as Aspect, our cross-platform gaming experience.
 
