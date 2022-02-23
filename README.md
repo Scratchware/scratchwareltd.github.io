@@ -4,4 +4,6 @@ This is where all of our web-oriented software and/or ports will be hosted, such
 
 If you want to learn more about who we are and what we do, visit <a href="https://sites.google.com/view/scratchware" target="_blank">our website.</a>
 
-<link rel="shortcut icon" type="image/x-icon" href="AspectFavIco.ico">
+<footer>
+  <p>2021 Scratchware Ltd. and SiteWorks.<p>
+</footer>
