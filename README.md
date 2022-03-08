@@ -4,6 +4,11 @@ This is where all of our web-oriented software and/or ports will be hosted, such
 
 If you want to learn more about who we are and what we do, visit <a href="https://sites.google.com/view/scratchware" target="_blank">our website.</a>
 
-<footer>
-  <p>2021 Scratchware Ltd. and SiteWorks.<p>
-</footer>
+
+
+
+
+
+
+
+2021 Scratchware Ltd. and SiteWorks.
